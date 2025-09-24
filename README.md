@@ -1,2 +1,2 @@
 # Myntra-clone
- This is my project .
+ This is my new project .
